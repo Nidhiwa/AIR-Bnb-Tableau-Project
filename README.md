@@ -1,5 +1,6 @@
 # AIR-Bnb-Tableau-Project
 
+
 Today, I propose undertaking another follow-along project in Tableau with Alex the Analyst. Here's the YouTube tutorial link for the Full Beginner Project in Tableau, which will serve as our guide.
 
 https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=33&ab_channel=AlexTheAnalyst
